@@ -1,15 +1,17 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Wenjing Fang
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:wenjing.fang@uconn.edu
+  text: wenjing.fang@uconn.edu
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://cellsummer.github.io/nimo-markdown-cv/
+  text: cellsummer.github.io
+phone:
+  **(860)5345250**
 ---
 
-# Wode **Ni**
+# Wenjing **Fang**
 
 <!--
 include contact information from the front matter
@@ -23,119 +25,55 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **University of Connecticut** `2014.8 - 2015.12`
+```
+Storrs, CT
+```
+- M.S. in Financial Mathematics
+
+### **Renmin University of China** `2004.9 - 2010.6`
 
 ```
-Pittsburgh, PA
+Beijing, China
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
-
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**](assets/chi-20-natural-diagramming.pdf)
-
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20), to appear._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
-
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
-
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
-
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
-----
+- B.S. in Statistics
+- M.S. in Actuarial Science
 
 ## Experience
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **Prudential Financial** `2016.1 - Present`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+_Director,Actuary_ `Hartford, CT` <br>
+* Leading development of **GGY AXIS ALM** model for multiple business use cases, such as AAT, C3P1 and DST. The model serves as the core calculation engine for the end-to-end modeling solution;
+* **Asset modeling** in GGY AXIS covering fixed income assets, derivatives, equity and structured assets;
+* Reinvestment modeling in GGY AXIS to mimic Prudential's Global Portfolio Management practice; Modeling complex **reinvestment strategies** (Target Asset Allocation, duration matching, swap hedging, etc.) using internal coding algorithm;
+* Implementing **internal ESG model** for VA valuation and forecasting.
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
 
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+### **PricewaterhouseCoopers** `2009.12 - 2014.7`
 
-### **AsiaInfo** `2015.6 - 2015.8`
+_Senior Associate_ `Beijing, China`<br> 
+* Actuarial auditing and Dynamic Solvency Test reviewing. Working as key team member in **actuarial due diligence** for multiple Merge and Acquisition projects;
+* In charge of several local actuarial consulting projects, including **Asset Liability Management modeling**, actuarial system conversion, business plan and expense study;
+* Rich experience in life insurance pricing and valuation. Familiar with **statutory** reserving, **China GAAP** reserving and Traditional Embedded Value;
+* **Top performer** of the firm (less than 5 percent) in 4 consecutive years.
 
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+### **Voya** `2015.5 - 2015.8`
 
-## Mentoring
+_Model Development Intern_ `Winsor, CT`<br> 
+* Converting the spreadsheet based assumption tables into a standardized database and designing a MSV table creator to automate input table creation process for the MoSes model;
+* Redesigning the validation tools for the quarterly production as the major control.Improved the efficiency of the procedure by more than 80 percent;
+* MoSes CFT model testing and developing.
 
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+## Software and Programming Skills
 
-## Teaching
+**Avanced Developer**: Excel VBA, VB.NET, TSQL, AXIS, MoSes, Matlab, R, Python<br>
+**Advanced User**: Prophet, AFM, SAS
 
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-## Honors & Awards
-
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
-## Service
-
-Research Experiences for Undergraduates in Software Engineering (REUSE) Admission Committee `CMU, 2019 - 2020`
+## Qualification
+FSA, CFA Level 1 and 2
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 3/30/2020 -->
