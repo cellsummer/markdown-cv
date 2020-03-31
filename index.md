@@ -8,7 +8,7 @@ homepage:
   url: https://cellsummer.github.io/nimo-markdown-cv/
   text: cellsummer.github.io
 phone:
-  **(860)5345250**
+  (860)5345250
 ---
 
 # Wenjing **Fang**
