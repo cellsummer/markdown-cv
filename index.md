@@ -2,8 +2,8 @@
 layout: cv
 title: Wenjing Fang
 email:
-  url: mailto:wenjing.fang@uconn.edu
-  text: wenjing.fang@uconn.edu
+  url: mailto:fang.wenjing@yahoo.com
+  text: fang.wenjing@yahoo.com
 homepage:
   url: https://cellsummer.github.io/markdown-cv/
   text: cellsummer.github.io
@@ -11,7 +11,7 @@ phone: 860-771-3153
   
 ---
 
-# Wenjing **Fang**
+# ** 房文晶 **
 
 <!--
 include contact information from the front matter
@@ -23,28 +23,27 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育背景
 
-### **University of Connecticut** `2014.8 - 2015.12`
+### **美国康涅狄格大学** `2014.8 - 2015.12`
 ```
-Storrs, CT
+GPA: 4.0
 ```
-- M.S. in Financial Mathematics
+- 应用金融数学硕士学位
 
-### **Renmin University of China** `2004.9 - 2010.6`
+### **中国人民大学** `2004.9 - 2010.6`
 
 ```
-Beijing, China
+GPA: 3.7
 ```
+- 统计学本科
+- 精算与风险管理硕士
 
-- B.S. in Statistics
-- M.S. in Actuarial Science
+## 工作经历
 
-## Experience
+### **Prudential Financial** `2016.1 - 至今`
 
-### **Prudential Financial** `2016.1 - Present`
-
-_Director,Actuary_ `Hartford, CT` <br>
+_Director,Actuary_ `哈特福德` <br>
 * Leading development of **GGY AXIS ALM** model for multiple business use cases, such as AAT, C3P1 and DST. The model serves as the core calculation engine for the end-to-end modeling solution;
 * **Asset modeling** in GGY AXIS covering fixed income assets, derivatives, equity and structured assets;
 * Reinvestment modeling in GGY AXIS to mimic Prudential's Global Portfolio Management practice; Modeling complex **reinvestment strategies** (Target Asset Allocation, duration matching, swap hedging, etc.) using internal coding algorithm;
