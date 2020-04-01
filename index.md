@@ -1,13 +1,14 @@
 ---
 layout: cv
 title: Wenjing Fang
+phone: 151-2000-6775
 email:
   url: mailto:fang.wenjing@yahoo.com
   text: fang.wenjing@yahoo.com
 homepage:
   url: https://cellsummer.github.io/markdown-cv/
   text: cellsummer.github.io
-phone: 151-2000-6775
+
   
 ---
 
