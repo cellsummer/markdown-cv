@@ -221,10 +221,10 @@ li {
 #contact-info {
   text-align: center;
   position: relative;
-  font-weight: lighter;
-  color: #ccc;
+  font-weight: normal;
+  color: rgb(20, 116, 151);
   /* font-family: Menlo,monospace,sans-serif; */
-  font-size: 80%;
+  font-size: 90%;
 }
 
 #contact-info a {
