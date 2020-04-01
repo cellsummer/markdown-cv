@@ -5,10 +5,10 @@ email:
   url: mailto:wenjing.fang@uconn.edu
   text: wenjing.fang@uconn.edu
 homepage:
-  url: https://cellsummer.github.io/nimo-markdown-cv/
+  url: https://cellsummer.github.io/markdown-cv/
   text: cellsummer.github.io
-phone:
-  (860)5345250
+phone: 860-771-3153
+  
 ---
 
 # Wenjing **Fang**
