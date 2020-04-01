@@ -11,7 +11,7 @@ phone: 860-771-3153
   
 ---
 
-# ** 房文晶 **
+# **房文晶**
 
 <!--
 include contact information from the front matter
@@ -43,35 +43,34 @@ GPA: 3.7
 
 ### **Prudential Financial** `2016.1 - 至今`
 
-_Director,Actuary_ `哈特福德` <br>
-* Leading development of **GGY AXIS ALM** model for multiple business use cases, such as AAT, C3P1 and DST. The model serves as the core calculation engine for the end-to-end modeling solution;
-* **Asset modeling** in GGY AXIS covering fixed income assets, derivatives, equity and structured assets;
-* Reinvestment modeling in GGY AXIS to mimic Prudential's Global Portfolio Management practice; Modeling complex **reinvestment strategies** (Target Asset Allocation, duration matching, swap hedging, etc.) using internal coding algorithm;
-* Implementing **internal ESG model** for VA valuation and forecasting.
+_Director,Actuary_ `美国哈特福德` <br>
+* 主管GGY AXIS资产负债管理模型的建模和开发。该模型为各业务线多种评估，预测和风险管理的精算需求，具体包括资产充足性测试（AAT), 偿付能力利率风险量化（C3P1)，动态压力测试（DST）等。该模型为总公司数据和精算模型自动化提供最核心的运算引擎。
+* 主管GGY AXIS中的资产建模。所搭建的资产产品包括各类固定收益资产，衍生品，权益类资产以及证券化资产（如MBS,CMBS,CDO等）。
+* 搭建投资策略模型用以模拟公司资产负债管理部门的实际投资策略。为多种复杂的资产负债管理策略提供模型中的实现。在AXIS所提供的投资自定义模运算块中，设计和开发模型算法以实现诸如目标资产配比，久期匹配，利率掉期套期保值等。
 
+### **普华永道** `2009.12 - 2014.7`
 
-### **PricewaterhouseCoopers** `2009.12 - 2014.7`
+_高级精算顾问_ `中国北京`<br> 
+* 负责多个精算审计和动态偿付能力审阅项目。在保险公司财务报表，精算数据验核，评估准则，模型及数据核验等领域积累十分丰富的实践经验。
+* 多个境内外精算尽职调查项目的核心项目成员，负责精算假设行业比对，现有业务估值计算和新业务乘数预测等。
+* 负责和参与多个精算咨询项目，项目领域包括资产负债管理建模，精算模型转换，业务计划以及费用分析等。
+* 对于国内市场产品定价和评估拥有丰富的经验。熟悉法定准备金，会计准备金，偿付能力和内涵价值的假设要求和评估方法。
 
-_Senior Associate_ `Beijing, China`<br> 
-* Actuarial auditing and Dynamic Solvency Test reviewing. Working as key team member in **actuarial due diligence** for multiple Merge and Acquisition projects;
-* In charge of several local actuarial consulting projects, including **Asset Liability Management modeling**, actuarial system conversion, business plan and expense study;
-* Rich experience in life insurance pricing and valuation. Familiar with **statutory** reserving, **China GAAP** reserving and Traditional Embedded Value;
-* **Top performer** of the firm (less than 5 percent) in 4 consecutive years.
+### **Voya（ING US）** `2015.5 - 2015.8`
 
-### **Voya** `2015.5 - 2015.8`
+_模型开发组_ `美国哈特福德`<br> 
+* 开发精算假设数据库。在此基础上设计和开发数据假设表格生成工具用于MoSes假设表格（MSV文件）的自动化。
+* 重新设计和优化MoSes模型结果核验工具。为每个季度的模型核验流程节省80%的运算时间。
+* 参与MoSes现金流模型的日常维护和测试。
 
-_Model Development Intern_ `Winsor, CT`<br> 
-* Converting the spreadsheet based assumption tables into a standardized database and designing a MSV table creator to automate input table creation process for the MoSes model;
-* Redesigning the validation tools for the quarterly production as the major control.Improved the efficiency of the procedure by more than 80 percent;
-* MoSes CFT model testing and developing.
+## 精算软件及编程能力
 
-## Software and Programming Skills
+**高级开发者**: Excel VBA, VB.NET, TSQL, AXIS, MoSes, Matlab, R, Python<br>
+**熟练掌握**: Prophet, AFM, SAS
 
-**Avanced Developer**: Excel VBA, VB.NET, TSQL, AXIS, MoSes, Matlab, R, Python<br>
-**Advanced User**: Prophet, AFM, SAS
-
-## Qualification
-FSA, CFA Level 1 and 2
+## 专业资质
+美国精算协会正精算师（FSA）
+特许金融分析师（CFA）考试1级和2级
 
 <!-- ### Footer
 
