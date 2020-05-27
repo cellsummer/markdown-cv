@@ -68,21 +68,28 @@ _Model Development Intern_ `Winsor, CT`<br>
 
 ## Projects & Areas of Expertise
 
-### GGY AXIS Model Conversion
+### **GGY AXIS Model Conversion**
 
-### Internal Asset Modeling
+* Leading GGY AXIS model conversion for Prudential's cashflow testing models; 
+* Designing consistent paradigm for the model building and running process;
+* Utilizing formula-link and external DLLs to streamline the datalink process; 
+* Creating best practice documentation such as AXIS paralle development SOP, AXIS naming convention SOP, and AXIS formula coding SOP, etc.
 
-### Reinvestment Strategy Modeling
+### **Internal Asset Modeling**
 
-### In-House ESG
+* 
 
-### Due Diligence
+### **Reinvestment Strategy Modeling**
 
-### Business Plan 
+### **In-House ESG**
 
-### Statutory Valuation and Forecast
+### **Due Diligence**
 
-### Traditional Embedded Value (TEV) and Market-Consistent Embedded Value (MCEV)
+### **Business Plan**
+
+### **Statutory Valuation and Forecast**
+
+### **Traditional Embedded Value (TEV) and Market-Consistent Embedded Value (MCEV)**
 
 
 ## Software and Programming Skills
