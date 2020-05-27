@@ -66,6 +66,25 @@ _Model Development Intern_ `Winsor, CT`<br>
 * Redesigning the validation tools for the quarterly production as the major control.Improved the efficiency of the procedure by more than 80 percent;
 * MoSes CFT model testing and developing.
 
+## Projects & Areas of Expertise
+
+### GGY AXIS Model Conversion
+
+### Internal Asset Modeling
+
+### Reinvestment Strategy Modeling
+
+### In-House ESG
+
+### Due Diligence
+
+### Business Plan 
+
+### Statutory Valuation and Forecast
+
+### Traditional Embedded Value (TEV) and Market-Consistent Embedded Value (MCEV)
+
+
 ## Software and Programming Skills
 
 **Avanced Developer**: Excel VBA, VB.NET, TSQL, AXIS, MoSes, Matlab, R, Python<br>
