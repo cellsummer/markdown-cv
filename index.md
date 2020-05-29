@@ -8,7 +8,7 @@ homepage:
   url: https://cellsummer.github.io/markdown-cv/
   text: cellsummer.github.io
 phone:
-  (+001)860-534-5250 (US) (+86)151-2000-6775 (CHINA)
+  (+86)151-2000-6775
 ---
 
 # Wenjing **Fang**
