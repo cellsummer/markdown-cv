@@ -44,7 +44,7 @@ Beijing, China
 
 ### **Prudential Financial** `2016.1 - Present`
 
-_Director,Actuary_ `Hartford, CT` <br>
+_Director, Actuary_ `Hartford, CT` <br>
 * Leading development of **GGY AXIS ALM** model for multiple business use cases, such as AAT, C3P1 and DST. The model serves as the core calculation engine for the end-to-end modeling solution;
 * Working with business partners to build the enterprise end-to-end modeling platform; Supporting Unit Testing and User Acceptance Testing; Authoring model technical specifications;
 * In charge of **Asset modeling** in GGY AXIS covering fixed income assets, derivatives, equity and structured assets;
@@ -62,8 +62,8 @@ _Senior Associate_ `Beijing, China`<br>
 ### **Voya** `2015.5 - 2015.8`
 
 _Model Development Intern_ `Winsor, CT`<br> 
-* Converting the spreadsheet based assumption tables into a standardized database and designing a MSV table creator to automate input table creation process for the MoSes model;
-* Redesigning the validation tools for the quarterly production as the major control.Improved the efficiency of the procedure by more than 80 percent;
+* Converting the spreadsheet-based assumption tables into a standardized database and designing a MSV table creator to automate input table creation process for the MoSes model;
+* Redesigning the validation tools for the quarterly production as the major control. Improved the efficiency of the procedure by more than 80 percent;
 * MoSes CFT model testing and developing
 
 ## Projects & Areas of Expertise
@@ -73,7 +73,7 @@ _Model Development Intern_ `Winsor, CT`<br>
 * Leading GGY AXIS model conversion for Prudential's cashflow testing models; 
 * Designing consistent paradigm for the model building and running process;
 * Utilizing formula-link and external DLLs to streamline the datalink process; 
-* Creating best practice documentation such as AXIS paralle development SOP, AXIS naming convention SOP, and AXIS formula coding SOP, etc
+* Creating best practice documentation such as AXIS parallel development SOP, AXIS naming convention SOP, and AXIS formula coding SOP, etc.
 
 ### **Internal Asset Modeling** `Prudential`
 
@@ -85,7 +85,7 @@ _Model Development Intern_ `Winsor, CT`<br>
 ### **Reinvestment Strategy Modeling** `Prudential`
 
 * Implementing user defined reinvestment strategies using formula table in AXIS; Defining flexible input structure to allow user to specify features/components of the desired reinvestment strategy;
-* Coding target allocation strategies with rich features including passive/active rebalancing, duration matching, swap hedging risk limit sales, etc
+* Coding target allocation strategies with rich features including passive/active rebalancing, duration matching, swap hedging risk limit sales, etc.
 
 ### **In-House ESG** `Prudential`
 
@@ -95,14 +95,18 @@ _Model Development Intern_ `Winsor, CT`<br>
 * Expertise in the techniques used in the ESG simulation and calibration
 
 ### **Due Diligence** `pwc`
+* Multiple projects experience for both buy/sell side due diligence in Asia-Pacific area;
+* Independently performing inforce/new business valuation and assumption benchmark;
+* New business multiplier estimation via macroeconomics analysis
 
+### **Business Plan** `pwc`
+* Profitability and customer value analysis by distribution channel and product type for the target company;
+* Input-output analysis for target company's agency business model;
+* Overhead expense allocation by product lines through standardized survey on over 200 headquarter employees;
 
-### **Business Plan**
-
-### **Statutory Valuation and Forecast**
-
-### **Traditional Embedded Value (TEV) and Market-Consistent Embedded Value (MCEV)**
-
+### **Statutory Valuation and Forecast** `Prudential/pwc`
+* Experience with US statutory reserve and capital; Knowledgeable on VM20/21 topics for individual life and variable annuity business;
+* Experience with China solvency/GAAP reserve and capital requirement
 
 ## Software and Programming Skills
 
