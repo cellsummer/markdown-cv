@@ -201,6 +201,7 @@ code {
   font-family: "Palatino";
   font-style: italic;
   float: right;
+  margin-right: 15px;
 }
 
 li:before {
