@@ -1,18 +1,17 @@
 ---
 layout: cv
 title: Wenjing Fang
-phone: 151-2000-6775
 email:
   url: mailto:fang.wenjing@yahoo.com
   text: fang.wenjing@yahoo.com
 homepage:
   url: https://cellsummer.github.io/markdown-cv/
   text: cellsummer.github.io
-
-  
+phone:
+  (+86)151-2000-6775
 ---
 
-# **房文晶**
+# Wenjing **Fang**
 
 <!--
 include contact information from the front matter
@@ -24,93 +23,98 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育背景
+## Education
 
-### **美国康涅狄格大学** `2014.8 - 2015.12`
+### **University of Connecticut** `2014.8 - 2015.12`
 ```
-GPA: 4.0 / 4.0
+Storrs, CT
 ```
-- 应用金融数学硕士学位
+- M.S. in Financial Mathematics
 
-### **中国人民大学** `2004.9 - 2010.6 `
+### **Renmin University of China** `2004.9 - 2010.6`
 
 ```
-GPA: 3.7 / 4.0
+Beijing, China
 ```
-- 统计学本科
-- 精算与风险管理硕士
 
-## 工作经历
+- B.S. in Statistics
+- M.S. in Actuarial Science
 
-### **保德信金融(Prudential Financial)** ```2016.1 - 至今```
+## Experience
 
-_Director,Actuary_ `Hartford 美国 ` <br>
-- 主管GGY AXIS资产负债管理模型的建模和开发。该模型为各业务线多种精算评估，预测和风险管理需求提供解决方案，具体包括资产充足性测试(AAT), 偿付能力利率风险量化(C3P1)，动态压力测试(DST)等。该模型是总公司数据和精算模型自动化流程的最核心运算引擎。<br>
-- 主管GGY AXIS中的资产建模。所搭建的资产品种包括各类固定收益资产，衍生品，权益类资产以及证券化资产(如MBS,CMBS,CDO等)。<br>
-- 搭建投资策略模型用以模拟公司资产负债管理部门的实际投资策略。为多种复杂的资产负债管理策略提供模型中的实现。<br>
+### **Prudential Financial** `2016.1 - Present`
 
-### **普华永道(PricewaterhouseCoopers)** `2009.12 - 2014.7  `
-
-_高级精算顾问_ `中国北京  `<br> 
-- 负责多个精算审计和动态偿付能力审阅项目。在保险公司财务报表，精算数据验核，评估准则，模型及数据核验等领域拥有十分丰富的实践经验。
-- 多个境内外精算尽职调查项目的核心项目成员，负责精算假设行业比对，现有业务估值计算和新业务乘数预测等。
-- 负责和参与多个精算咨询项目，项目领域包括资产负债管理建模，精算模型转换，业务计划以及费用分析等。
-- 对于国内市场产品定价和评估拥有丰富的经验。熟悉法定准备金，会计准备金，偿付能力和内含价值的假设要求和评估方法。
-
-### **Voya(ING US)** `2015.5 - 2015.8  `
-
-_模型开发组暑期实习生_ `Hartford 美国  `<br>
-- 参与开发和设计精算假设数据库。在此基础上独立设计和开发数据假设表格生成工具以用于MoSes假设表格(MSV文件)的自动化更新。
-- 重新设计和优化MoSes模型结果核验工具。为每个季度的模型核验流程节省80%的运算时间。
-- 参与MoSes现金流模型的日常维护和测试。
-
-## 项目经历和专业领域
-
-### **GGY AXIS 模型转换** ```保德信     ```<br>
-- 负责保德信现金流模型在GGY AXIS中的搭建。该模型为总公司所有业务线提供现金流用以计算准备金和偿付能力；
-- 负责设计模型构建和运行的统一范式；
-- 使用AXIS中的formula link模块连接外部动态链接库(DLL)实现自定义功能。DLL的应用场景包括模型保单及假设表格数据预处理和实现部分复杂运算功能；
-- 撰写相关最佳实践文档，内容涵盖模型平行开发和维护，模型对象命名规则以及模型中自定义编程语言的最佳实践等。
-
-### **资产建模** `保德信  `<br>
-- 使用GGY AXIS作为资产建模的平台，负责将公司原资产模型中所有资产种类(包括固定收益类资产，证券化资产，私募权益类资产以及衍生品等)重新建模到新平台中；
-- 将资产模型与资产负债模型整合，使用统一的模型结构和模型运行流程；
-- 使用Excel和VBA对AXIS资产现金流、公允价值/账面价值、久期的预测结果进行核验；
-- 与公司的IT部门合作建立从模型到资产仓库的一整套标准流程，为下游的模型用户统一提供每季度更新的资产现金流信息。
-
-### **投资策略建模** `保德信  `<br>
-- 使用GGY AXIS中的formula table实现用户自定义的资产负债管理投资策略；将所有投资策略中用到的重要参数和功能指针以模型变量的形式呈现给用户，从而使用户有更灵活的手段定义模型中用到的投资策略；
-- 开发集成了多项投资策略的目标配比(Target Allocation)策略，该策略包含的功能有主动/被动平衡，久期匹配及利率掉期套期保值等。优化了程序算法以保证模型的运算效率；
-
-### **经济情景生成器(ESG)** `保德信  `<br>
-- 将公司内部开发的经济情景生成器整合到变额年金评估预测模型中以简化模型运行所需的步骤；
-- 负债沟通变额年金模型组、ESG模型组以及市场数据仓库(Market Data Repository)开发组的需求。开发模型接口以及建立相关技术文档；
-- 讲演关于内部开发ESG模型和US Academy ESG模型的主要区别，以及整合内部ESG的模型实现方法以供管理层决策；
-- 熟悉ESG中常用的利率、利差及收益率模型以及它们的模拟(simulation)和校对(calibration)过程。
-
-### **尽职调查** `保德信  `<br>
-- 多个国内和亚太地区的精算尽职调查项目经验，包括买方、卖方和新入市场的尽职调查；
-- 独立评估目标公司的现有业务和新业务内含价值以及完成精算假设的行业对比；
-- 通过宏观经济数据测算新业务乘数。
-
-### **商业计划** `普华永道  `<br>
-- 对客户公司的产品和渠道的盈利能力进行测算和分析；
-- 对客户公司的代理人渠道和代理人基本法进行投入产出效能的分析；
-- 搭建费用分摊模型，按照渠道对客户公司的运维费用和后援费用进行分摊，使用科学时间调查为费用分摊提供依据。
-
-### **准备金评估和预测** `保德信/普华永道  `<br>
-- 熟悉国内偿付能力和会计准备金评估，内含价值评估要求和实践；
-- 熟悉北美原则导向的准备金(principal-based reserve)和资本要求的计算方法和实践。
+_Director, Actuary_ `Hartford, CT` <br>
+* Leading development of **GGY AXIS ALM** model for multiple business use cases, such as AAT, C3P1 and DST. The model serves as the core calculation engine for the end-to-end modeling solution;
+* Working with business partners to build the enterprise end-to-end modeling platform; Supporting Unit Testing and User Acceptance Testing; Authoring model technical specifications;
+* In charge of **Asset modeling** in GGY AXIS covering fixed income assets, derivatives, equity and structured assets;
+* In charge of **Reinvestment modeling** in GGY AXIS to mimic Prudential's Global Portfolio Management practice; Modeling complex **reinvestment strategies** using internal coding algorithm
 
 
-## 精算软件及编程能力
+### **PricewaterhouseCoopers** `2009.12 - 2014.7`
 
-**高级开发者**: Excel VBA, VB.NET, TSQL, AXIS, MoSes, Matlab, R, Python<br>
-**熟练掌握**: Prophet, AFM, SAS<br>
+_Senior Associate_ `Beijing, China`<br> 
+* Actuarial auditing and Dynamic Solvency Test reviewing. Working as key team member in **actuarial due diligence** for multiple Merge and Acquisition projects;
+* In charge of several local actuarial consulting projects, including **Asset Liability Management modeling**, actuarial system conversion, business plan and expense study;
+* Rich experience in life insurance pricing and valuation. Familiar with **statutory** reserving, **China GAAP** reserving and Traditional Embedded Value;
+* **Top performer** of the firm (less than 5 percent) in 4 consecutive years
 
-## 专业资质
-美国精算协会正精算师(FSA)<br>
-特许金融分析师(CFA)考试1级和2级<br>
+### **Voya** `2015.5 - 2015.8`
+
+_Model Development Intern_ `Winsor, CT`<br> 
+* Converting the spreadsheet-based assumption tables into a standardized database and designing a MSV table creator to automate input table creation process for the MoSes model;
+* Redesigning the validation tools for the quarterly production as the major control. Improved the efficiency of the procedure by more than 80 percent;
+* MoSes CFT model testing and developing
+
+## Projects & Areas of Expertise
+
+### **GGY AXIS Model Conversion** `Prudential`
+
+* Leading GGY AXIS model conversion for Prudential's cashflow testing models; 
+* Designing consistent paradigm for the model building and running process;
+* Utilizing formula-link and external DLLs to streamline the datalink process; 
+* Creating best practice documentation such as AXIS parallel development SOP, AXIS naming convention SOP, and AXIS formula coding SOP, etc.
+
+### **Internal Asset Modeling** `Prudential`
+
+* Leveraging GGY AXIS as the internal asset modeling platform; Converting all asset classes from legacy asset projection platforms;
+* Integrating asset projection model with the main ALM model to promote "one model" concept;
+* Validating asset projections and market value calculations in spreadsheets and VBA;
+* Working with IT partners to build the pipeline to populate asset warehouse for the downstream users
+
+### **Reinvestment Strategy Modeling** `Prudential`
+
+* Implementing user defined reinvestment strategies using formula table in AXIS; Defining flexible input structure to allow user to specify features/components of the desired reinvestment strategy;
+* Coding target allocation strategies with rich features including passive/active rebalancing, duration matching, swap hedging risk limit sales, etc.
+
+### **In-House ESG** `Prudential`
+
+* Incorporating the in-house ESG with the actuarial projection platform for variable annuity valuation and forecast;
+* Authoring specs for the input and output requirements for the end-to-end ESG file generating process;
+* Presenting key differences between the in-house ESG and the US Academy ESG to senior management; Also presenting cost-benefit analysis on several alternatives regarding the implementing solutions for decision-making;
+* Expertise in the techniques used in the ESG simulation and calibration
+
+### **Due Diligence** `pwc`
+* Multiple projects experience for both buy/sell side due diligence in Asia-Pacific area;
+* Independently performing inforce/new business valuation and assumption benchmark;
+* New business multiplier estimation via macroeconomics analysis
+
+### **Business Plan** `pwc`
+* Profitability and customer value analysis by distribution channel and product type for the target company;
+* Input-output analysis for target company's agency business model;
+* Overhead expense allocation by product lines through standardized survey on over 200 headquarter employees;
+
+### **Statutory Valuation and Forecast** `Prudential/pwc`
+* Experience with US statutory reserve and capital; Knowledgeable on VM20/21 topics for individual life and variable annuity business;
+* Experience with China solvency/GAAP reserve and capital requirement
+
+## Software and Programming Skills
+
+**Avanced Developer**: Excel VBA, VB.NET, TSQL, AXIS, MoSes, Matlab, R, Python<br>
+**Advanced User**: Prophet, AFM, SAS
+
+## Qualification
+FSA, CFA Level 1 and 2
 
 <!-- ### Footer
 
