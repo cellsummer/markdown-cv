@@ -110,7 +110,7 @@ _Model Development Intern_ `Winsor, CT`<br>
 
 ## Software and Programming Skills
 
-**Avanced Developer**: Excel VBA, VB.NET, TSQL, AXIS, MoSes, Matlab, R, Python<br>
+**Advanced Developer**: Excel VBA, VB.NET, TSQL, AXIS, MoSes, Matlab, R, Python<br>
 **Advanced User**: Prophet, AFM, SAS
 
 ## Qualification
