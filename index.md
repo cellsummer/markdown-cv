@@ -60,14 +60,18 @@ _Director, Actuary_ `Hartford, CT` <br>
 * Wrote specs for the input and output requirements for the end-to-end ESG file generating process
 * Presented key differences between the in-house ESG and the US Academy ESG to senior management; Also presented cost-benefit analysis on several alternatives regarding the implementing solutions for decision-making
 * Expertise in the techniques used in the ESG simulation and calibration
+
 #### ` `
+
 ### **Voya** `2015.5 - 2015.8`
 
 _Model Development Intern_ `Winsor, CT`<br> 
 * Converted the spreadsheet-based assumption tables into a standardized database and designed a MSV table creator to automate input table creation process for the MoSes model
 * Redesigned the validation tools for the quarterly production as the major control. Improved the efficiency of the procedure by more than 80 percent
 * MoSes CFT model testing and developing
+
 #### ` `
+
 ### **PricewaterhouseCoopers** `2009.12 - 2014.7`
 
 _Senior Associate_ `Beijing, China`<br> 
