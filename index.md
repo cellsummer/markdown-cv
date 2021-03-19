@@ -31,7 +31,9 @@ _Valuation Actuary_ `Beijing, China` <br>
 * Responsible for various reporting metrics to reginal office, including EEV, Economic Capital, IFRS and Solvency; Provided insightful analysis of the quarter-end and year-end production results to group actuaries
 * Led initiatives for streamlining process for persistency experience study; Formed SOP for monthly persistency monitoring and annual assumption review 
 * Created a R2DB tool to streamline the Prophet output process; Significantly improved the runtime for large sets of output and reduced the operation risk
-####  
+
+#### `  `
+
 ### **Prudential Financial** `2016.1 - 2020.7`
 
 _Director, Actuary_ `Hartford, CT` <br>
