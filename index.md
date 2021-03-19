@@ -30,7 +30,7 @@ Supported arguments:
 
 _Director, Actuary_ `Hartford, CT` <br>
 
-**GGY AXIS Model Conversion**
+#### GGY AXIS Model Conversion
 * Led GGY AXIS model conversion for Prudential's cashflow testing models; 
 * Designed consistent paradigm for the model building and running process;
 * Utilized formula-link and external DLLs to streamline the datalink process; 
