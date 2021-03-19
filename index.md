@@ -28,12 +28,10 @@ Supported arguments:
 ### **Citic-Prudential Life Insurance Co.** `2020.9 - 2021.2`
 
 _Valuation Actuary_ `Beijing, China` <br>
-* Responsible for various reporting metrics to reginal office, including EEV, Economic Capital, IFRS and Solvency; Provided insightful analysis of the quarter-end and year-end production results to group actuaries
+* Responsible for various reporting metrics to regional office, including EEV, Economic Capital, IFRS and Solvency; Provided insightful analysis of the quarter-end and year-end production results to group actuaries
 * Led initiatives for streamlining process for persistency experience study; Formed SOP for monthly persistency monitoring and annual assumption review 
 * Created a R2DB tool to streamline the Prophet output process; Significantly improved the runtime for large sets of output and reduced the operation risk
-
-#### `  `
-
+####
 ### **Prudential Financial** `2016.1 - 2020.7`
 
 _Director, Actuary_ `Hartford, CT` <br>
@@ -41,7 +39,8 @@ _Director, Actuary_ `Hartford, CT` <br>
 **GGY AXIS Model Conversion**
 * Led GGY AXIS model conversion for Prudential's cashflow testing models 
 * Designed consistent paradigm for the model building and running process
-* Utilized formula-link and external DLLs to streamline the datalink process 
+* Utilized formula-link and external DLLs to streamline the datalink process
+* Worked with business partners to build the enterprise end-to-end modeling platform; Supported Unit Testing and User Acceptance Testing 
 * Created best practice documentation such as AXIS parallel development SOP, AXIS naming convention SOP, and AXIS formula coding SOP, etc
 
 **Internal Asset Modeling**
@@ -59,12 +58,6 @@ _Director, Actuary_ `Hartford, CT` <br>
 * Wrote specs for the input and output requirements for the end-to-end ESG file generating process
 * Presented key differences between the in-house ESG and the US Academy ESG to senior management; Also presented cost-benefit analysis on several alternatives regarding the implementing solutions for decision-making
 * Expertise in the techniques used in the ESG simulation and calibration
-
-**Roles and Responsibility**
-* Developed **GGY AXIS ALM** model for multiple business use cases, such as AAT, C3P1 and DST. The model served as the core calculation engine for the end-to-end modeling solution
-* Worked with business partners to build the enterprise end-to-end modeling platform; Supported Unit Testing and User Acceptance Testing; Wrote model technical specifications
-* In charge of **Asset modeling** in GGY AXIS covering fixed income assets, derivatives, equity and structured assets
-* In charge of **Reinvestment modeling** in GGY AXIS to mimic Prudential's Global Portfolio Management practice; Modeled complex **reinvestment strategies** using internal coding algorithm
 
 ### **Voya** `2015.5 - 2015.8`
 
