@@ -30,7 +30,7 @@ Supported arguments:
 
 _Director, Actuary_ `Hartford, CT` <br>
 
-#### GGY AXIS Model Conversion
+**GGY AXIS Model Conversion**
 * Led GGY AXIS model conversion for Prudential's cashflow testing models; 
 * Designed consistent paradigm for the model building and running process;
 * Utilized formula-link and external DLLs to streamline the datalink process; 
@@ -57,8 +57,7 @@ _Director, Actuary_ `Hartford, CT` <br>
 * Worked with business partners to build the enterprise end-to-end modeling platform; Supported Unit Testing and User Acceptance Testing; Wrote model technical specifications;
 * In charge of **Asset modeling** in GGY AXIS covering fixed income assets, derivatives, equity and structured assets;
 * In charge of **Reinvestment modeling** in GGY AXIS to mimic Prudential's Global Portfolio Management practice; Modeled complex **reinvestment strategies** using internal coding algorithm
-
-
+---
 ### **PricewaterhouseCoopers** `2009.12 - 2014.7`
 
 _Senior Associate_ `Beijing, China`<br> 
@@ -66,7 +65,7 @@ _Senior Associate_ `Beijing, China`<br>
 * In charge of several local actuarial consulting projects, including **Asset Liability Management modeling**, actuarial system conversion, business plan and expense study;
 * Rich experience in life insurance pricing and valuation. Familiar with **statutory** reserving, **China GAAP** reserving and Embedded Value;
 * **Top performer** of the firm (less than 5 percent) in 4 consecutive years
-
+---
 ### **Voya** `2015.5 - 2015.8`
 
 _Model Development Intern_ `Winsor, CT`<br> 
