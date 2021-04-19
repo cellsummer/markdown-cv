@@ -32,7 +32,7 @@ _Valuation Actuary_ `Beijing, China` <br>
 * Led initiatives for streamlining process for persistency experience study; Formed SOP for monthly persistency monitoring and annual assumption review 
 * Created a R2DB tool to streamline the Prophet output process; Significantly improved the runtime for large sets of output and reduced the operation risk
 
-#### ` `
+#### 
 
 ### **Prudential Financial** `2016.1 - 2020.7`
 
@@ -61,7 +61,7 @@ _Director, Actuary_ `Hartford, CT` <br>
 * Presented key differences between the in-house ESG and the US Academy ESG to senior management; Also presented cost-benefit analysis on several alternatives regarding the implementing solutions for decision-making
 * Expertise in the techniques used in the ESG simulation and calibration
 
-#### ` `
+#### 
 
 ### **Voya** `2015.5 - 2015.8`
 
@@ -70,7 +70,7 @@ _Model Development Intern_ `Winsor, CT`<br>
 * Redesigned the validation tools for the quarterly production as the major control; Improved the efficiency of the procedure by more than 80 percent
 * MoSes CFT model testing and development
 
-#### ` `
+#### 
 
 ### **PricewaterhouseCoopers** `2009.12 - 2014.7`
 
