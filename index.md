@@ -5,7 +5,7 @@ email:
   url: mailto:fang.wenjing@yahoo.com
   text: fang.wenjing@yahoo.com
 homepage:
-  url: https://cellsummer.github.io/markdown-cv/
+  url: https://github.com/cellsummer
   text: cellsummer.github.io
 phone:
   (860) 212 5298
