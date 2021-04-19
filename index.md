@@ -6,7 +6,7 @@ email:
   text: fang.wenjing@yahoo.com
 homepage:
   url: https://github.com/cellsummer
-  text: cellsummer.github.io
+  text: github.com/cellsummer
 phone:
   (860) 212 5298
 ---
