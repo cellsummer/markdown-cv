@@ -52,7 +52,7 @@ _Director, Actuary_ `Hartford, CT` <br>
 
 **Reinvestment Strategy Modeling**
 * Implemented user defined reinvestment strategies using formula table in AXIS; Defined flexible input structure to allow user to specify features/components of the desired reinvestment strategy
-* Coded target allocation strategies with rich features including passive/active rebalancing, duration matching, swap hedging risk limit sales, etc
+* Coded target allocation strategies with rich features including passive/active rebalancing, duration matching, swap hedging, risk limit sales, etc
 
 **In-House ESG**
 * Incorporated the in-house ESG with the actuarial projection platform for variable annuity valuation and forecast
