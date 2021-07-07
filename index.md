@@ -3,13 +3,13 @@ layout: cv
 title: Wenjing Fang
 email:
   url: mailto:fang.wenjing@yahoo.com
-  text: fang.wenjing@yahoo.com |
+  text: fang.wenjing@yahoo.com
 homepage:
   url: https://github.com/cellsummer
-  text: github.com/cellsummer |
+  text: github.com/cellsummer
 linkedin:
   url: https://linkedin.com/in/wjfang
-  text: in/wjfang |
+  text: in/wjfang
 phone:
   (860) 212 5298
 
