@@ -144,7 +144,7 @@ body {
     font-size: 11pt;
     line-height: 1.5em;
     /*also written as...  font: normal normal 400 100%/1.5em;*/
-    font-family: "Roboto";
+    font-family: "Roboto", cursive;
     /* margin: 0.5in 0.5in 0.5in 0.5in */
     /* margin-top: 1em;
 	margin-left: 1em; */
@@ -163,7 +163,7 @@ em {
 }
 
 h1 {
-    font-family: "Roboto";
+    font-family: "Roboto", cursive;
     text-align: center;
     font-size: 35pt;
     font-weight: lighter;
@@ -182,7 +182,7 @@ h1 strong {
 /* Section headers */
 
 h2 {
-    font-family: "Roboto";
+    font-family: "Roboto", cursive;
     font-size: 18pt;
     text-align: center;
     font-weight: bolder;
@@ -220,7 +220,7 @@ h4:after {
 }
 
 code {
-    font-family: "Roboto";
+    font-family: "Roboto", cursive;
     font-style: italic;
     font-size: 11pt;
     float: right;
