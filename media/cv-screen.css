@@ -229,6 +229,8 @@ code {
     margin-right: 15px;
 }
 
+
+/*
 li:before {
     content: "-";
     position: relative;
@@ -236,11 +238,10 @@ li:before {
 }
 
 li {
-    /*second line indent*/
     padding-left: 2.25em;
     text-indent: -0.25em;
-    /*color: #777;*/
 }
+*/
 
 #contact-info {
     text-align: center;

@@ -29,24 +29,23 @@ Supported arguments:
 
 ## Experience
 
-### **Transamerica** `2021.7 - present`
+### Transamerica`2021.7 - present`
 
 _Modernization Actuary_ `Remote, US`   
 
 * Life Model Conversion
 * IFRS 17 Model Conversion  
-_____
 
-### **Citic-Prudential Life Insurance Co.** `2020.9 - 2021.2`
+
 
 _Valuation Actuary_ `Beijing, China`   
 
 * Responsible for various reporting metrics to Pru's regional office, including EEV, Economic Capital, IFRS and Solvency; Provided insightful analysis of the quarter-end and year-end production results to Group actuaries
 * Led initiatives for streamlining process for persistency experience study; Formed SOP for monthly persistency monitoring and annual assumption review
 * Created a R2DB tool to streamline the Prophet output process; Significantly improved the runtime for large sets of output and reduced the operation risk  
-_____
 
-### **Prudential Financial** `2016.1 - 2020.7`
+
+### Prudential Financial`2016.1 - 2020.7`
 
 _Director, Actuary_ `Hartford, CT`   
 
@@ -76,18 +75,18 @@ _Director, Actuary_ `Hartford, CT`
 * Wrote specs for the input and output requirements for the end-to-end ESG file generating process
 * Presented key differences between the in-house ESG and the US Academy ESG to senior management; Also presented cost-benefit analysis on several alternatives regarding the implementing solutions for decision-making
 * Expertise in the techniques used in the ESG simulation and calibration  
-_____
 
-### **Voya** `2015.5 - 2015.8`
+
+### Voya`2015.5 - 2015.8`
 
 _Model Development Intern_ `Winsor, CT`
 
 * Converted the spreadsheet-based assumption tables into a standardized database and designed a MSV table creator to automate input table creation process for the MoSes model
 * Redesigned the validation tools for the quarterly production as the major control; Improved the efficiency of the procedure by more than 80 percent
 * MoSes CFT model testing and development  
-_____
 
-### **PricewaterhouseCoopers** `2009.12 - 2014.7`
+
+### PricewaterhouseCoopers`2009.12 - 2014.7`
 
 _Senior Associate_ `Beijing, China`  
 **Actuarial Assurance Service**
@@ -112,11 +111,11 @@ _Senior Associate_ `Beijing, China`
 
 * Developing ALM functionalities in MoSes for the life insurance branch of a large insurance group
 * Replicated ALM projections in spreadsheet and VBA to illustrate the ALM strategies
-_____
+
 
 ## Education
 
-### **University of Connecticut** `2014.8 - 2015.12`
+### University of Connecticut`2014.8 - 2015.12`
 
 ```
 Storrs, CT
@@ -124,7 +123,7 @@ Storrs, CT
 
 - M.S. in Financial Mathematics
 
-### **Renmin University of China** `2004.9 - 2010.6`
+### Renmin University of China`2004.9 - 2010.6`
 
 ```
 Beijing, China
@@ -132,9 +131,9 @@ Beijing, China
 
 - B.S. in Statistics
 - M.S. in Actuarial Science
-______
 
-## Certificates, Software & Programming Skills, 
+
+## Certificates, Software & Programming Skills 
 
 **Qualification**: FSA (2017), CFA Level 1 and 2  
 **Advanced Developer**: AXIS, Excel VBA, Python, VB.NET, TSQL, Matlab, R   
