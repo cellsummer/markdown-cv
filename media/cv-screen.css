@@ -84,14 +84,17 @@ time,
 mark,
 audio,
 video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
 }
+
+
 /* HTML5 display-role reset for older browsers */
+
 article,
 aside,
 details,
@@ -103,152 +106,161 @@ hgroup,
 menu,
 nav,
 section {
-  display: block;
+    display: block;
 }
+
 body {
-  line-height: 1;
+    line-height: 1;
 }
+
 ol,
 ul {
-  list-style: none;
+    list-style: none;
 }
+
 blockquote,
 q {
-  quotes: none;
+    quotes: none;
 }
+
 blockquote:before,
 blockquote:after,
 q:before,
 q:after {
-  content: "";
-  content: none;
+    content: "";
+    content: none;
 }
+
 table {
-  border-collapse: collapse;
-  border-spacing: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
+
 
 /* end of reset */
 
 body {
-  font: normal normal 400;
-  font-size: 120%;
-  line-height: 1.5em;
-  /*also written as...  font: normal normal 400 100%/1.5em;*/
-  font-family: "Helvetica", sans-serif;
-  margin: 0.5in 0.5in 0.5in 0.5in;
-  /* margin-top: 1em;
+    font: normal normal 400;
+    font-size: 120%;
+    line-height: 1.5em;
+    /*also written as...  font: normal normal 400 100%/1.5em;*/
+    font-family: "Roboto", sans-serif;
+    margin: 0.5in 0.5in 0.5in 0.5in;
+    /* margin-top: 1em;
 	margin-left: 1em; */
 }
 
 strong {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 p strong {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 em {
-  font-style: italic;
+    font-style: italic;
 }
 
 h1 {
-  font-family: "Avenir Next", sans-serif;
-  text-align: center;
-  /* font-size: 50pt; */
-  /* font-size: 500%; */
-  font-size: 350%;	
-  font-weight: lighter;
-  position: relative;
-  line-height: 1.2em;
-  position: relative;
-  /* left: 28%; */
+    font-family: "Avenir Next", sans-serif;
+    text-align: center;
+    /* font-size: 50pt; */
+    /* font-size: 500%; */
+    font-size: 350%;
+    font-weight: lighter;
+    position: relative;
+    line-height: 1.2em;
+    position: relative;
+    /* left: 28%; */
 }
 
 h1 strong {
-  font-weight: normal !important;
-  line-height: 1em;
+    font-weight: normal !important;
+    line-height: 1em;
 }
 
+
 /* Section headers */
+
 h2 {
-  font-family: "Avenir Next", sans-serif;
-  /* font-size: 20pt; */
-  /* font-size: 200%; */
-  font-size: 150%;
-  text-align: center;
-  font-weight: normal;
-  display: flex;
-  /* line-height: 1.5em; */
-  margin-top: 0.7em;
-  margin-bottom: 0.5em;
-  width: 100%;
+    font-family: "Avenir Next", sans-serif;
+    /* font-size: 20pt; */
+    /* font-size: 200%; */
+    font-size: 150%;
+    text-align: center;
+    font-weight: normal;
+    display: flex;
+    /* line-height: 1.5em; */
+    margin-top: 0.7em;
+    margin-bottom: 0.5em;
+    width: 100%;
 }
+
 h2:after {
-  border-bottom: 1.7px dashed #d3d3d3;
-  /* height: 0.8em; */
-  margin-left: 10px;
-  content: "";
-  flex: 1;
+    border-bottom: 1.7px dashed #d3d3d3;
+    /* height: 0.8em; */
+    margin-left: 10px;
+    content: "";
+    flex: 1;
 }
 
 h3 strong {
-  /* line-height: 2.5em; */
+    /* line-height: 2.5em; */
 }
 
 h3 {
-  font-size: 125%;
-  margin-top: 10px;
+    font-size: 125%;
+    margin-top: 10px;
 }
 
 h4:after {
-  border-bottom: 1.7px dashed #d3d3d3;
-  /* height: 0.8em; */
-  margin-left: 10px;
-  content: "";
-  flex: 1;
+    border-bottom: 1.7px dashed #d3d3d3;
+    /* height: 0.8em; */
+    margin-left: 10px;
+    content: "";
+    flex: 1;
 }
 
 code {
-  font-family: "Palatino";
-  font-style: italic;
-  float: right;
-  margin-right: 15px;
+    font-family: "Palatino";
+    font-style: italic;
+    float: right;
+    margin-right: 15px;
 }
 
 li:before {
-  content: "-";
-  position: relative;
-  left: -0.25em;
+    content: "-";
+    position: relative;
+    left: -0.25em;
 }
 
 li {
-  /*second line indent*/
-  padding-left: 2.25em;
-  text-indent: -0.25em;
-  /*color: #777;*/
+    /*second line indent*/
+    padding-left: 2.25em;
+    text-indent: -0.25em;
+    /*color: #777;*/
 }
 
 #contact-info {
-  text-align: center;
-  position: relative;
-  font-weight: normal;
-  color: rgb(20, 116, 151);
-  /* font-family: Menlo,monospace,sans-serif; */
-  font-size: 90%;
+    text-align: center;
+    position: relative;
+    font-weight: normal;
+    color: rgb(20, 116, 151);
+    /* font-family: Menlo,monospace,sans-serif; */
+    font-size: 90%;
 }
 
 #contact-info a {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 a {
-  text-decoration: none;
-  color: rgb(20, 116, 151);
+    text-decoration: none;
+    color: rgb(20, 116, 151);
 }
 
 hr {
-  visibility: hidden;
-  height: 0mm;
+    visibility: hidden;
+    height: 0mm;
 }
