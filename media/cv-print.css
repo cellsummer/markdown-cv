@@ -206,8 +206,9 @@ h3 strong {
 }
 
 h3 {
-    font-size: 14pt;
-    margin-top: 10px;
+    font-size: 16pt;
+    margin-top: 14px;
+    font-weight: bold;
 }
 
 h4:after {
@@ -226,19 +227,16 @@ code {
     margin-right: 15px;
 }
 
-
-/*
 li:before {
-    content: "-";
+    content: "•";
     position: relative;
     left: -0.25em;
 }
 
 li {
-    padding-left: 2.25em;
+    /* padding-left: 2.25em; */
     text-indent: -0.25em;
 }
-*/
 
 #contact-info {
     text-align: center;
