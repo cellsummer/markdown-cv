@@ -3,18 +3,18 @@ layout: cv
 title: Wenjing Fang
 email:
   url: mailto:fang.wenjing@yahoo.com
-  text: fang.wenjing@yahoo.com
+  text: fang.wenjing@yahoo.com |
 homepage:
   url: https://github.com/cellsummer
-  text: github.com/cellsummer
+  text: github.com/cellsummer |
 linkedin:
   url: https://linkedin.com/in/wjfang
-  text: in/wjfang
+  text: in/wjfang |
 phone:
   (860) 212 5298
 
 ---
-# Wenjing **Fang**
+# Wenjing Fang
 
 <!--
 include contact information from the front matter
@@ -35,6 +35,7 @@ _Modernization Actuary_ `Remote, US`
 
 * Life Model Conversion
 * IFRS 17 Model Conversion  
+_____
 
 ### **Citic-Prudential Life Insurance Co.** `2020.9 - 2021.2`
 
@@ -43,6 +44,7 @@ _Valuation Actuary_ `Beijing, China`
 * Responsible for various reporting metrics to Pru's regional office, including EEV, Economic Capital, IFRS and Solvency; Provided insightful analysis of the quarter-end and year-end production results to Group actuaries
 * Led initiatives for streamlining process for persistency experience study; Formed SOP for monthly persistency monitoring and annual assumption review
 * Created a R2DB tool to streamline the Prophet output process; Significantly improved the runtime for large sets of output and reduced the operation risk  
+_____
 
 ### **Prudential Financial** `2016.1 - 2020.7`
 
@@ -74,6 +76,7 @@ _Director, Actuary_ `Hartford, CT`
 * Wrote specs for the input and output requirements for the end-to-end ESG file generating process
 * Presented key differences between the in-house ESG and the US Academy ESG to senior management; Also presented cost-benefit analysis on several alternatives regarding the implementing solutions for decision-making
 * Expertise in the techniques used in the ESG simulation and calibration  
+_____
 
 ### **Voya** `2015.5 - 2015.8`
 
@@ -82,6 +85,7 @@ _Model Development Intern_ `Winsor, CT`
 * Converted the spreadsheet-based assumption tables into a standardized database and designed a MSV table creator to automate input table creation process for the MoSes model
 * Redesigned the validation tools for the quarterly production as the major control; Improved the efficiency of the procedure by more than 80 percent
 * MoSes CFT model testing and development  
+_____
 
 ### **PricewaterhouseCoopers** `2009.12 - 2014.7`
 
@@ -108,6 +112,7 @@ _Senior Associate_ `Beijing, China`
 
 * Developing ALM functionalities in MoSes for the life insurance branch of a large insurance group
 * Replicated ALM projections in spreadsheet and VBA to illustrate the ALM strategies
+_____
 
 ## Education
 
@@ -127,15 +132,13 @@ Beijing, China
 
 - B.S. in Statistics
 - M.S. in Actuarial Science
+______
 
-## Software and Programming Skills
+## Certificates, Software & Programming Skills, 
 
-**Advanced Developer**: AXIS, Excel VBA, Python, VB.NET, TSQL, Matlab, R  
+**Qualification**: FSA (2017), CFA Level 1 and 2  
+**Advanced Developer**: AXIS, Excel VBA, Python, VB.NET, TSQL, Matlab, R   
 **Advanced User**: Prophet, AFM, SAS, MoSes  
-
-## Qualification
-
-FSA (2017), CFA Level 1 and 2  
 
 <!-- ### Footer
 

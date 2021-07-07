@@ -185,7 +185,7 @@ h2 {
     font-family: "Roboto";
     font-size: 18pt;
     text-align: center;
-    font-weight: normal;
+    font-weight: bolder;
     display: flex;
     /* line-height: 1.5em; */
     margin-top: 0.7em;
@@ -219,7 +219,7 @@ h4:after {
 }
 
 code {
-    font-family: "Palatino";
+    font-family: "Roboto";
     font-style: italic;
     font-size: 11pt;
     float: right;
