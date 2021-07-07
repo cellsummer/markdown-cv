@@ -206,7 +206,7 @@ h3 strong {
 }
 
 h3 {
-    font-size: 16pt;
+    font-size: 14pt;
     margin-top: 16px;
     font-weight: bold;
 }
@@ -234,7 +234,7 @@ li:before {
 }
 
 li {
-    padding-left: 0.25em;
+    padding-left: 0.50em;
     text-indent: -0.25em;
 }
 
