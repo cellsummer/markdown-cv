@@ -211,7 +211,7 @@ h3 strong {
 
 h3 {
     font-size: 125%;
-    margin-top: 14px;
+    margin-top: 16px;
     font-weight: bold;
 }
 
@@ -237,7 +237,7 @@ li:before {
 }
 
 li {
-    /* padding-left: 2.25em; */
+    padding-left: 0.25em;
     text-indent: -0.25em;
 }
 

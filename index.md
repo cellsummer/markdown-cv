@@ -37,7 +37,7 @@ _Modernization Actuary_ `Remote, US`
 * IFRS 17 Model Conversion  
 
 
-
+### Citic-Pru Life Insurance Co.`2020.9 - 2021.2`
 _Valuation Actuary_ `Beijing, China`   
 
 * Responsible for various reporting metrics to Pru's regional office, including EEV, Economic Capital, IFRS and Solvency; Provided insightful analysis of the quarter-end and year-end production results to Group actuaries
