@@ -194,7 +194,7 @@ h2 {
 }
 
 h2:after {
-    border-bottom: 1.7px dashed #d3d3d3;
+    border-bottom: 1.7px #000000;
     /* height: 0.8em; */
     margin-left: 10px;
     content: "";

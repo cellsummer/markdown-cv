@@ -31,19 +31,22 @@ Supported arguments:
 
 ### **Transamerica** `2021.7 - present`
 
-_Modernization Actuary_ `Remote, US` `<br>`
+_Modernization Actuary_ `Remote, US`   
+
+* Life Model Conversion
+* IFRS 17 Model Conversion  
 
 ### **Citic-Prudential Life Insurance Co.** `2020.9 - 2021.2`
 
-_Valuation Actuary_ `Beijing, China` `<br>`
+_Valuation Actuary_ `Beijing, China`   
 
 * Responsible for various reporting metrics to Pru's regional office, including EEV, Economic Capital, IFRS and Solvency; Provided insightful analysis of the quarter-end and year-end production results to Group actuaries
 * Led initiatives for streamlining process for persistency experience study; Formed SOP for monthly persistency monitoring and annual assumption review
-* Created a R2DB tool to streamline the Prophet output process; Significantly improved the runtime for large sets of output and reduced the operation risk`<br><br>`
+* Created a R2DB tool to streamline the Prophet output process; Significantly improved the runtime for large sets of output and reduced the operation risk  
 
 ### **Prudential Financial** `2016.1 - 2020.7`
 
-_Director, Actuary_ `Hartford, CT` `<br>`
+_Director, Actuary_ `Hartford, CT`   
 
 **GGY AXIS Model Conversion**
 
@@ -70,19 +73,19 @@ _Director, Actuary_ `Hartford, CT` `<br>`
 * Incorporated the in-house ESG with the actuarial projection platform for variable annuity valuation and forecast
 * Wrote specs for the input and output requirements for the end-to-end ESG file generating process
 * Presented key differences between the in-house ESG and the US Academy ESG to senior management; Also presented cost-benefit analysis on several alternatives regarding the implementing solutions for decision-making
-* Expertise in the techniques used in the ESG simulation and calibration`<br><br>`
+* Expertise in the techniques used in the ESG simulation and calibration  
 
 ### **Voya** `2015.5 - 2015.8`
 
-_Model Development Intern_ `Winsor, CT<br>`
+_Model Development Intern_ `Winsor, CT`
 
 * Converted the spreadsheet-based assumption tables into a standardized database and designed a MSV table creator to automate input table creation process for the MoSes model
 * Redesigned the validation tools for the quarterly production as the major control; Improved the efficiency of the procedure by more than 80 percent
-* MoSes CFT model testing and development`<br><br>`
+* MoSes CFT model testing and development  
 
 ### **PricewaterhouseCoopers** `2009.12 - 2014.7`
 
-_Senior Associate_ `Beijing, China<br>`
+_Senior Associate_ `Beijing, China`  
 **Actuarial Assurance Service**
 
 * Actuarial auditing and Dynamic Solvency Test reviewing for multiple local life insurance companies
@@ -127,12 +130,12 @@ Beijing, China
 
 ## Software and Programming Skills
 
-**Advanced Developer**: AXIS, Excel VBA, Python, VB.NET, TSQL, Matlab, R`<br>`
-**Advanced User**: Prophet, AFM, SAS, MoSes
+**Advanced Developer**: AXIS, Excel VBA, Python, VB.NET, TSQL, Matlab, R  
+**Advanced User**: Prophet, AFM, SAS, MoSes  
 
 ## Qualification
 
-FSA (2017), CFA Level 1 and 2
+FSA (2017), CFA Level 1 and 2  
 
 <!-- ### Footer
 
